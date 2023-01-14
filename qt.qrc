@@ -1,0 +1,13 @@
+<RCC>
+  <qresource>
+    <file>images\zap.svg</file>
+    <file>images\home.svg</file>
+    <file>images\sun.svg</file>
+    <file>images\trash.svg</file>
+    <file>images\globe.svg</file>
+    <file>images\droplet.svg</file>
+    <file>images\slack.svg</file>
+    <file>images\shield.svg</file>
+  </qresource>
+  <qresource/>
+</RCC>
